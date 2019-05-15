@@ -1,8 +1,19 @@
-# Cifar-100-Loading
-Returns all the training images and labels for 5 classes, selected at random. 
+# Cifar-10-CNN
 
-A python class
+A CNN is built to classify cifar 10 data.
 
-a) loads in the Cifar 100 dataset
+Different initializations are used: 
+1) zero initialization
+2) normal initialization
+3) Xavier initialization
 
-b) Has one method: get_new_data. This method returns all the training images and labels for 5 classes, selected at random. The labels are changed into one_hot variables out of only 5 classes, not 100, since you we're only sampling 5 classes at a time. 
+Different Optimizers are used:
+1) Adam 
+2) Momentum
+
+Different activation functions are used:
+1) ReLu
+2) Sigmoid
+3) tanh
+
+1) Max-pooling, batch-normalization, dropout are used
