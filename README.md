@@ -20,3 +20,5 @@ Techniques used:
 1) Max-pooling
 2) Batch-normalization 
 3) Dropout
+
+![1](file:///Users/siyanzhao/Desktop/1.png)
