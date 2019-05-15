@@ -15,5 +15,5 @@ Different activation functions are used:
 1) ReLu
 2) Sigmoid
 3) tanh
-
+Techniques:
 1) Max-pooling, batch-normalization, dropout are used
