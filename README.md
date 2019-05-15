@@ -34,7 +34,9 @@ Techniques used:
 <img width="404" alt="3" src="https://user-images.githubusercontent.com/38367749/57806370-f8538400-772c-11e9-8441-eca0a248769e.png">
 
 * 4
-<img width="420" alt="4" src="https://user-images.githubusercontent.com/38367749/57806380-fd183800-772c-11e9-8ef2-3d11c41a9ac7.png">
+
+<img width="408" alt="image" src="https://user-images.githubusercontent.com/38367749/57812408-027c7f00-773b-11e9-9ebd-ab21678f2e2a.png">
+
 
 * 5
 <img width="392" alt="5" src="https://user-images.githubusercontent.com/38367749/57806385-ff7a9200-772c-11e9-8c2b-00030fb81ad4.png">
